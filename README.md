@@ -2,4 +2,4 @@
 
 
 
-###  [Pesonal portfolio webpage](https://lanrewaju94.github.io/personal-portfolio-webpage--fCC/)
+###  [Pesonal portfolio webpage](https://lanre-waju.github.io/personal-portfolio-webpage--fCC/)
